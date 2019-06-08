@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+#logo {
+    padding-top: 200px;
+}
+#block1 {
+    background-image: url("../img/backgrounds/h_img.jpg"); 
+    background-size: cover;
+    background-attachment:fixed;
+    color: #fff;
+    padding: 50px;
+    height: 97vh;
+    font-family: 'Gugi'; 
+    margin-bottom: 0;
+}
+#block2 {
+    font-size: 20px;
+    background-image: url('../img/backgrounds/s_image.jpg');
+    color: white;
+    margin-top: 5%;
+    padding: 20px;
+}
