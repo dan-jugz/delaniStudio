@@ -19,11 +19,10 @@ $(document).ready(function () {
   $(".box").hover(function () {
     $(this).find(".read").toggle(400);
   });
-$('.read').hover(function () {
-    $(this).animate({opacity:'1'});
-    },function () {
-  $(this).animate({opacity:'0'});
+  $('.read').hover(function () {
+    $(this).animate({ opacity: '1' });
+  }, function () {
+    $(this).animate({ opacity: '0' });
   })
-
-
+  
 });
