@@ -34,6 +34,9 @@ $(document).ready(function () {
     }
     event.preventDefault();
   })
-  
+   $("button").on('click', function(){
+    $('form').each(function(){
+      this.reset();
+    });
   });
 });
