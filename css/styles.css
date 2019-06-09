@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    transition: all 0.5s ease-in;
+}
 body {
     text-align: center;
 }
@@ -20,4 +26,7 @@ body {
     color: white;
     margin-top: 5%;
     padding: 20px;
+}
+.what0,.what1,.what2 {
+    display: none;
 }
