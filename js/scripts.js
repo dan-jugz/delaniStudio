@@ -19,11 +19,8 @@ $(document).ready(function () {
   $(".box").hover(function () {
     $(this).find(".read").toggle(400);
   });
-  $('.read').hover(function () {
-    $(this).animate({ opacity: '1' });
-  }, function () {
-    $(this).animate({ opacity: '0' });
-  })
+  
+  
   $('#submission').submit(function (event) {
     var display1 = $('input:first').val();
     var display2 = $('input#mail').val();
