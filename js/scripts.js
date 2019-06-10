@@ -17,7 +17,7 @@ $(document).ready(function () {
 
   $(".read").hide();
   $(".box").hover(function () {
-    $(this).find(".read").toggle(400);
+    $(this).find(".read").toggle(40);
   });
   
   
