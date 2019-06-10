@@ -15,16 +15,15 @@ In essence, we get the links to their social-media pages and get their reviews.
 * JAVASCRIPT
 * JQUERY
 * BOOTSTRAP
-## About-us
-* Go to my live page on https://dan-jugz.github.io/delaniStudio.
-* view the page and check their portfolio.
 ## Behavior Driven Development 
 input|Behavior|Output
 ----|----|------
 visit the delani studio webpage|click the icons on what we do section|output more information on what you have clicked on
 visit the delani studio webpage|hover over the portfolio icons|output the name of the project in the portfolio
 visit the delani studio webpage|input your contact details and message|get an alert thanking you for your contribution
-
+## About-us
+* Go to my live page on https://dan-jugz.github.io/delaniStudio.
+* view the page and check their portfolio.
 ### Known Bugs
 There are no known bugs at the moment
 ### support and contact details
